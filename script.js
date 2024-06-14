@@ -1,4 +1,4 @@
-let standards = {
+let standard = {
      ["I", 1],
     ["IV", 4],
     ["V", 5],
